@@ -1,7 +1,9 @@
-将 `https://github.com/wy876/POC `中的poc/exp 使用docsify分类整理，方便查看。
+
+#  声明:
+poc/exp 使用docsify分类整理，方便查看。感谢大佬的付出，继续支持开源精神。如果有幸看到这个存储库，希望给个星星，任何二次发布，请声明这是开源。继续开源精神的传承。
+
 
 ## 2024.09.08 更新漏洞
-
 - [智联云采SRM2.0系统接口autologin身份认证绕过漏洞](./智互联科技有限公司/智联云采SRM2.0系统接口autologin身份认证绕过漏洞.md)
 - [众诚网上订单系统o_sa_order.ashx存在SQL注入漏洞](./众诚软件/众诚网上订单系统o_sa_order.ashx存在SQL注入漏洞.md)
 - [用友NC-Cloud系统show_download_content接口存在SQL注入漏洞](./用友OA/用友NC-Cloud系统show_download_content接口存在SQL注入漏洞.md)
